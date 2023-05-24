@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965274148830",
+    "firebase_url": "https://flutter-devtest-bab32-default-rtdb.firebaseio.com",
+    "project_id": "flutter-devtest-bab32",
+    "storage_bucket": "flutter-devtest-bab32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965274148830:android:884a2a83b050b2946c074f",
+        "android_client_info": {
+          "package_name": "com.example.pokedex_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965274148830-etah9vpfvfgs0olrvedf82bpdod3682m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBkVIdIUBNL0L4tirIkqWuEtPasJn_KC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965274148830-etah9vpfvfgs0olrvedf82bpdod3682m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
